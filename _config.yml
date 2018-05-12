@@ -10,17 +10,17 @@ exclude:
 
 # Site settings
 title: Βιβλιοπωλείο Ζωοδόχος Πηγή
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "Βιβλιοπωλείο Ζωοδόχος Πηγή"
 email: zpigibookstore@gmail.com
 phone: "26410-55555"
 name: Ζωοδόχος Πηγή
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Βιβλιοπωλείο Ζωοδόχος Πηγή
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+baseurl: "/bookstore" # the subpath of your site, e.g. /blog/
+url: "http://zpigibookstore.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
